@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
-This is my homepage. Welcome.
+title: Welcome to my blog This is my homepage. Welcome.
 ---
 
